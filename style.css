@@ -2,5 +2,9 @@ html{
     text-align: center;
     background-color: #202020;
     font-family: 'Noto Sans', 'Courier New', Courier, monospace;
+}
+
+h3{
     font-size: larger;
+    color: azure;
 }
