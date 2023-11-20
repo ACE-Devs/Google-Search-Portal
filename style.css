@@ -4,7 +4,11 @@ html{
     font-family: 'Noto Sans', 'Courier New', Courier, monospace;
 }
 
-h3{
+h3,label{
     font-size: larger;
+    color: azure;
+}
+p{
+    font-size: medium;
     color: azure;
 }
